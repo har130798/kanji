@@ -1,0 +1,6 @@
+playground/
+venv/
+__pycache__/
+Pipfile
+Pipfile.lock
+.idea/
